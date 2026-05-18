@@ -53,7 +53,6 @@ bus-ticket-reservation-dp/
 |
 +-- assets/
 |   +-- class-diagram.png             <- UML class diagram (derived from use case diagram)
-|   +-- use-case-diagram.png          <- UML use case diagram (Passenger and Admin actors)
 |   +-- output-screenshot.png         <- Screenshot of the program running in the terminal
 |   +-- CPIT252_Group_Project_Report.docx  <- Full project report
 |   +-- case-study.pdf                <- IRJMETS case study paper (Mehra et al., 2021)
